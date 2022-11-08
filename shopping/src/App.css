@@ -1,0 +1,33 @@
+.product {
+  margin-top: 30%;
+}
+#modal {
+  margin-left: 42%;
+}
+.basket {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.logo {
+  width: 720px;
+  position: relative;
+  left: 50%;
+  margin-left: -130px;
+  margin-top: 2%;
+}
+
+.container1 {
+  display: flex;
+  justify-content: space-around;
+  width: 450px;
+  margin-top: 2%;
+  margin-left: 290px;
+}
+.input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+  background-color: rgb(196, 20, 43);
+}
