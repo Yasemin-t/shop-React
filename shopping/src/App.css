@@ -1,5 +1,5 @@
 .product {
-  margin-top: 30%;
+  margin-top: 10%;
 }
 #modal {
   margin-left: 42%;
@@ -29,5 +29,13 @@
   padding: 10px;
   border-radius: 20px;
   border: none;
-  background-color: rgb(196, 20, 43);
+  background-color: rgb(230, 56, 79);
+}
+.table {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: medium;
+}
+.card {
+  overflow: hidden;
+  text-align: center;
 }

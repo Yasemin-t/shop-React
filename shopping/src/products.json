@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Kürk Mantolu Madonna",
+    "author": "Sabahattin Ali",
+    "price": 18,
+    "img": "https://files.iskultur.com.tr/dosyalar/2020/01/kurk-mantolu-madonna.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sherlock Holmes Gibi Düşünmek",
+    "author": "Maria Konnikova",
+    "price": 35,
+    "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000636768-1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mart Menekşeleri",
+    "author": "Sarah Jio",
+    "price": 50,
+    "img": "https://static.nadirkitap.com/fotograf/16838/14/Kitap_2019081707315413.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mart Menekşeleri",
+    "author": "Sarah Jio",
+    "price": 50,
+    "img": "https://productimages.hepsiburada.net/s/3/1500/9600314867762.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mart Menekşeleri",
+    "author": "Sarah Jio",
+    "price": 50,
+    "img": "https://static.nadirkitap.com/fotograf/367534/20/Kitap_202011191233303675347.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bulantı",
+    "author": "Jean-Paul Sartre",
+    "price": 45,
+    "img": "https://img.kitapyurdu.com/v1/getImage/fn:11481521/wh:true/wi:800"
+  },
+  {
+    "id": 7,
+    "name": "Simyacı",
+    "author": "Paulo Coelho",
+    "price": 25,
+    "img": "https://i.dr.com.tr/cache/500x400-0/originals/0000000064552-1.jpg"
+  },
+  {
+    " id": 8,
+    " name": "Satranç",
+    "author": "Stefan Zweig",
+    "price": 13,
+    "img": "https://m.media-amazon.com/images/I/41KXYhApcNS._AC_SY1000_.jpg"
+  }
+]
